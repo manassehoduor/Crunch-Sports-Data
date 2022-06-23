@@ -38,3 +38,8 @@ The visualization show the standings, trend in the points gained, and the number
 
 ![standings_rnd3_B](https://user-images.githubusercontent.com/20558188/175366748-58da4f46-9d83-45d3-93b6-c28e5bea1dd4.png)
 
+### Christies 7s Champions/Titles since the competition inception
+
+![christies_table](https://user-images.githubusercontent.com/20558188/175368160-0f04b78e-4811-4b4b-ac1d-aeaeb0601b7c.png)
+
+
