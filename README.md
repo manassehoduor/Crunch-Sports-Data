@@ -10,7 +10,7 @@ The visualization show the Margin of victory among the top winning teams after K
 
 ### Men's Driftwood 7s Day 1 Results
 - Light Theme
-- 
+
 Here are the day 1 results of the christies 7s 2022 edition. The visualization show the margin scores of all the 24 matches played in day 1.
 
 ![2022_Driftwood7s_D1](https://user-images.githubusercontent.com/20558188/174490398-8453cc02-da4a-4c80-a564-62cd1dbbfd9f.png)
