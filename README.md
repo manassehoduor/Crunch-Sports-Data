@@ -39,10 +39,17 @@ Here are the day 2 results of the christies 7s 2022 edition. The visualization s
 ### National Men's 7s Standings after Kabeberi, Christies, and Driftwood 7s; Season: 2022
 
 The visualization show the standings, trend in the points gained, and the number of #Wins, #Losses, and #Draws a team has so far
+- Standings after leg 3
 
 ![standings_rnd3_A](https://user-images.githubusercontent.com/20558188/175366733-e2a73483-5d1f-431d-9e34-736c2f8b008d.png)
 
 ![standings_rnd3_B](https://user-images.githubusercontent.com/20558188/175366748-58da4f46-9d83-45d3-93b6-c28e5bea1dd4.png)
+
+- Standings after leg 4
+
+![standings_rnd4_A](https://user-images.githubusercontent.com/20558188/177495578-a124fe09-fbd1-4cd2-ba56-d78d039cb039.png)
+
+![standings_rnd4_B](https://user-images.githubusercontent.com/20558188/177495567-9a443771-bb60-44e4-9b21-78d1dfca3372.png)
 
 ### Christies 7s Champions/Titles since the competition inception
 
