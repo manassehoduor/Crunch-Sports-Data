@@ -1,19 +1,19 @@
 # Crunch-Sports-Data
 
-## National Men's Circuit Season: 2022
+## :kenya: National Men's 7s :rugby_football: Circuit Season: 2022
 
 ### Margin of Victory
 
 The visualization show the Margin of victory among the top-six winning teams after:
-- Kabeberi7s::Christies7s editions.
+- _Kabeberi7s::Christies7s editions_.
 
 ![#Margin of Victory](https://user-images.githubusercontent.com/20558188/174490282-ced7842b-0811-4226-8b6d-62918f4df1dc.png)
 
-- Kabeberi7s::Christies::Driftwood7s editions.
+- _Kabeberi7s::Christies::Driftwood7s editions_.
 
 ![#Margin of Victory#3](https://user-images.githubusercontent.com/20558188/175767561-0f401dd7-d53f-4e19-8fbf-d7d3e812272f.png)
 
-- Kabeberi7s::Christies::Driftwood::Dala 7s editions.
+- _Kabeberi7s::Christies::Driftwood::Dala 7s editions_.
 
 ![#Margin of Victory#4](https://user-images.githubusercontent.com/20558188/177976668-cd3e03f8-519a-4dd9-8c78-069d13f59892.png)
 
