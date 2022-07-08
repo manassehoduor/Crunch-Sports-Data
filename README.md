@@ -58,7 +58,7 @@ Collapse the sections below to view the **day 2 results** of the christies 7s 20
 
 ### National Men's 7s Standings after Kabeberi, Christies, and Driftwood 7s; Season: 2022
 
-Collapse the sections below to view visualization's of the **standings**, **trend** in the **points** gained, and the number of ***Wins***, ***Losses***, and ***Draws*** a team has so far
+Collapse the sections below to view visualization's of the **standings**, **trend**, **points** gained, number of ***Wins***, ***Losses***, and ***Draws*** a team has so far
 
 <details><summary>Standings after leg 3</summary>
   
