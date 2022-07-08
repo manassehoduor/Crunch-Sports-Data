@@ -76,7 +76,7 @@ Collapse the sections below to view visualization's of the **standings**, **tren
 
 </details>
 
-### Christies 7s Champions/Titles since the competition inception
+### Christies 7s Champions/Titles since the Tournament Inception
 
 ![christies_table](https://user-images.githubusercontent.com/20558188/175368160-0f04b78e-4811-4b4b-ac1d-aeaeb0601b7c.png)
 
