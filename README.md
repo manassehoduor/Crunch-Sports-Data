@@ -24,6 +24,12 @@ Collapse the sections below to view the visualization's of **Margin of victory**
   
 </details>
 
+<details><summary>Kabeberi, Christies, Driftwood, Dala & Prinsloo 7s Editions</summary>
+  
+![#Margin of Victory#5](https://user-images.githubusercontent.com/20558188/178668239-18e28694-3d0c-4ca2-a6ab-bab69780dda1.png)
+  
+</details>
+
 ### Men's Driftwood 7s Day 1 Results
 
 Collapse the sections below to view **day 1 results** of the christies 7s 2022 edition. The visualization show the margin scores of all the 24 matches played in day 1.
@@ -73,6 +79,14 @@ Collapse the sections below to view visualization's of the **standings**, **tren
 ![standings_rnd4_A](https://user-images.githubusercontent.com/20558188/177495578-a124fe09-fbd1-4cd2-ba56-d78d039cb039.png)
 
 ![standings_rnd4_B](https://user-images.githubusercontent.com/20558188/177495567-9a443771-bb60-44e4-9b21-78d1dfca3372.png)
+
+</details>
+
+<details><summary>Standings after leg 5</summary>
+
+![standings_rnd5_A](https://user-images.githubusercontent.com/20558188/178668569-38cc8171-d06d-4af4-829e-700e576681dc.png)
+
+![standings_rnd5_B](https://user-images.githubusercontent.com/20558188/178668575-2fbc2a03-998d-4afb-b316-4ee28a01ae23.png)
 
 </details>
 
