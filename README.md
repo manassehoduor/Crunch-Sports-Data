@@ -1,6 +1,6 @@
 # Crunch-Sports-Data
 
-## Kenya 7s Series Points
+## [Kenya 7s Series Points](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
 ![k7s](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31fa1ffd-de8c-458b-aa68-8cf82a5bafe9)
 
