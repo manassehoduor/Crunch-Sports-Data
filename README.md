@@ -1,5 +1,9 @@
 # Crunch-Sports-Data
 
+## Kenya 7s Series Points
+
+![k7s](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31fa1ffd-de8c-458b-aa68-8cf82a5bafe9)
+
 ## :kenya: National Men's 7s :rugby_football: Circuit Season: 2022
 
 ### Margin of Victory
