@@ -1,5 +1,5 @@
 
-## KIPKEINO CLASSIC
+## KIP KEINO CLASSIC
 
 Chart designed before the 4th Edition of World Athletics Continental Tour Gold Series
 
