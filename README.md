@@ -1,5 +1,11 @@
 # Crunch-Sports-Data
 
+## [Kip Keino Classic](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Track%20%26%20Field%20Sports/Men/100%20m)
+
+Chart designed before the race
+
+![100m_men](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/307045fc-9d89-4df9-b7cb-42c603206243)
+
 ## [Kenya 7s Series Points](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
 ![k7s](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31fa1ffd-de8c-458b-aa68-8cf82a5bafe9)
