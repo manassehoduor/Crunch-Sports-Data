@@ -3,7 +3,6 @@ rm(list = ls())
 # load libraries
 pacman::p_load(tidyverse, showtext, ggtext, ggsvg, glue, hms)
 
-
 # Import fonts
 font_add_google(name = "Roboto Condensed", family = "Roboto Condensed")
 font_add_google(name = "Rosario")
@@ -83,29 +82,14 @@ men_100m |>
     plot.margin = margin(b = 30, t = 40, r = 40, l = 40)
   ) +
   annotate(
-    "text",
-    y = "WORLD RECORD", x = 9.58,
-    label = "Personal Best",
-    vjust = -2,
-    hjust = -0.1,
-    colour = "#190439",
-    fontface = "bold",
-    family = 'Rosario',
-    size = 7
+    "text", y = "WORLD RECORD", x = 9.58,
+    label = "Personal Best", vjust = -2, hjust = -0.1, colour = "#190439", fontface = "bold",
+    family = 'Rosario', size = 7
   ) +
   annotate(
-    "text",
-    y = "WORLD RECORD", x = 9.63,
-    label = "Season Best",
-    vjust = -2,
-    hjust = 0.5,
-    colour = "#120ba4",
-    fontface = "bold",
-    family = 'Rosario',
-    size = 7
+    "text", y = "WORLD RECORD", x = 9.63, label = "Season Best",
+    vjust = -2, hjust = 0.5, colour = "#120ba4", fontface = "bold", family = 'Rosario', size = 7
   )
 
 # Save plot
 ggsave("100m_men.png", width = 21, height = 17, bg = "#c7fff4")
-
-
