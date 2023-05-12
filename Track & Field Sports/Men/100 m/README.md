@@ -1,7 +1,7 @@
 
 ## KIPKEINO CLASSIC
 
-FourthEdition of World Athletics Continental Tour Gold Series
+Chart designed before the 4th Edition of World Athletics Continental Tour Gold Series
 
 ### 100 m
 
