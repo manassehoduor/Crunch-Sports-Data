@@ -2,6 +2,10 @@
 
 ## [Kip Keino Classic](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Track%20%26%20Field%20Sports/Men/100%20m)
 
+Chart designed after the race
+
+![kip_keino_classic_100m_men](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/213e4685-9323-4612-8dad-7226e287ae2f)
+
 Chart designed before the race
 
 ![100m_men](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/307045fc-9d89-4df9-b7cb-42c603206243)
