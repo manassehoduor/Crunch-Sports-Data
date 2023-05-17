@@ -1,5 +1,9 @@
 # Crunch-Sports-Data
 
+## Kenya 7s Performance: Margin of Victory
+
+![mov_k7s_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31a9c9ac-6c58-4a97-9b35-5ec4fd64e3b7)
+
 ## [Kip Keino Classic](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Track%20%26%20Field%20Sports/Men/100%20m)
 
 Chart designed after the race
