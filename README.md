@@ -8,6 +8,8 @@ Chart designed before the race
 
 ## [Kenya 7s Series Points](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
+![k7s_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/d0a5c176-ad4b-4a1a-9ddd-e8fc8e3e7060)
+
 ![k7s](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31fa1ffd-de8c-458b-aa68-8cf82a5bafe9)
 
 ## :kenya: National Men's 7s :rugby_football: Circuit Season: 2022
