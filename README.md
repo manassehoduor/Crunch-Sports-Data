@@ -1,6 +1,8 @@
 # Crunch-Sports-Data
 
-## Kenya 7s Performance: Margin of Victory
+## [Kenya 7s Performance](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
+
+Margin of Victory
 
 ![mov_k7s_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31a9c9ac-6c58-4a97-9b35-5ec4fd64e3b7)
 
