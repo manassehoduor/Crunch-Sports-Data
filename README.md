@@ -12,7 +12,7 @@
 ![k7s_stats_2023_5](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5e4e00da-c1cf-4bec-97fc-4217a124732d)
 ![k7s_stats_2023_6](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/9e637218-8653-4aa1-a9b3-79a7048dcdea)
 
-## Kenya 7s: Margin of Victory
+## Kenya 7s: [Margin of Victory]((https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023))
 
 ![mov_k7s_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31a9c9ac-6c58-4a97-9b35-5ec4fd64e3b7)
 
