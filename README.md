@@ -6,11 +6,11 @@
 
 <details><summary>H:H Games</summary>
  
-![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
+ ![k7s_stats_2023_5](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5e4e00da-c1cf-4bec-97fc-4217a124732d)
 
 </details>
 
-![k7s_stats_2023_5](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5e4e00da-c1cf-4bec-97fc-4217a124732d)
+![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
 
 <details><summary>1st-Half vs 2nd-Half Games</summary>
 
