@@ -4,7 +4,7 @@
 
 ![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
 
-<details><summary>H:H Games</summary>
+## <details><summary>H:H Games</summary>
 
 ![k7s_stats_2023_a](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/791d6678-bfbf-463d-b66c-e1fad55f33da)
 
