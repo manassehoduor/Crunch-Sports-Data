@@ -1,8 +1,18 @@
 # Crunch-Sports-Data
 
-## [Kenya 7s Performance](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
+## [Kenya 7s Team Performance](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
-Margin of Victory
+![k7s_stats_2023_a](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/791d6678-bfbf-463d-b66c-e1fad55f33da)
+![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
+
+![k7s_stats_2023_1](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/58fd9b96-f9d8-4691-9eda-cc611f4f61f1)
+![k7s_stats_2023_2](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/9b0e4bac-fc88-40b7-9aab-531d84d49ab1)
+![k7s_stats_2023_3](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/983f145e-b723-4986-b143-59e6b13befcc)
+![k7s_stats_2023_4](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/80c18ecc-816f-4eee-9baa-ff213bb8b159)
+![k7s_stats_2023_5](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5e4e00da-c1cf-4bec-97fc-4217a124732d)
+![k7s_stats_2023_6](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/9e637218-8653-4aa1-a9b3-79a7048dcdea)
+
+## Kenya 7s: Margin of Victory
 
 ![mov_k7s_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/31a9c9ac-6c58-4a97-9b35-5ec4fd64e3b7)
 
