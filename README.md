@@ -2,12 +2,12 @@
 
 ## [Kenya 7s Team Performance](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
-![k7s_stats_2023_a](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/791d6678-bfbf-463d-b66c-e1fad55f33da)
+![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
 
 <details><summary>H:H Games</summary>
 
-![k7s_stats_2023_b](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/cd43b54e-a4d2-4a7c-bfbe-97ed68865490)
- 
+![k7s_stats_2023_a](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/791d6678-bfbf-463d-b66c-e1fad55f33da)
+
 </details>
 
 ![k7s_stats_2023_5](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5e4e00da-c1cf-4bec-97fc-4217a124732d)
