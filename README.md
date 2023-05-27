@@ -1,4 +1,7 @@
 # Crunch-Sports-Data
+## Wanda Diamond League in Rabat
+
+![Rabat_100m_men](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/c7e4e2f6-9e14-477b-bbd1-567d65d96486)
 
 ## [Kenya 7s Team Performance](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Kenya_7s/Season_2023)
 
