@@ -1,4 +1,8 @@
 
+## WANDA DIAMOND LEAGUE IN RABAT
+
+![Rabat_100m_men](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/d144fbdd-2842-4459-bda6-c6c53f277a5f)
+
 ## KIP KEINO CLASSIC
 
 Chart designed after the 4th Edition of World Athletics Continental Tour Gold Series
