@@ -8,11 +8,11 @@
 
 ![Top3_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/096845a0-c694-466c-ae66-8b831f3aeebe)
 
-#### Omanyala Race Analysis
+#### Ferdinand Omanyala Race Analysis
 
 ![Omanyala_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/2ff58d6f-2cd6-4a68-8518-ccb2084de003)
 
-#### Simbine Race Analysis
+#### Simbine Akani Race Analysis
 
 ![SIMBINE_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/9d0dad63-b816-46d3-a317-1be7ff44cbd0)
 
