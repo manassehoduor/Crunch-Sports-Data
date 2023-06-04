@@ -1,6 +1,19 @@
 # Crunch-Sports-Data
 ## [Wanda Diamond League in Rabat](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Track%20%26%20Field%20Sports/Men/100%20m)
 
+### Race Analysis
+
+![Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/07cfa635-fa36-4b3b-bd7c-32b04b8e96ff)
+
+
+![Top3_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/0312788c-cb3b-45d4-9674-45a7ce8372b2)
+
+
+![SIMBINE_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/a7bcf3b8-cb3b-4317-ac0a-d2eff21fd8ec)
+
+
+![Omanyala_Rabat_100m_men_rankings_2023](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/702b3f76-8d92-4994-805b-c499cfd014e2)
+
 ### 100m Men Entrants Race Analysis
 
 ![Rabat_100m_men1](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/d8373028-3afa-4af7-b5cc-c3a94c095b7f)
