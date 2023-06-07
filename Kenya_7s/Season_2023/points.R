@@ -19,7 +19,7 @@ cap <-  paste0("<span style='font-family:fb;'>&#xf09b;</span>",
 
 # create data = men’s Series 2023
 k7s_points <- data.frame(
-  Series = c("HONG KONG",	"DUBAI",	"CAPE TOWN",	"HAMILTON",	"SYDNEY",	"LOS ANGELES",	"VANCOUVER", "HONG KONG'",	"SINGAPORE"),
+  Series = c("HONG KONG",	"DUBAI", "CAPE TOWN",	"HAMILTON",	"SYDNEY",	"LOS ANGELES", "VANCOUVER", "HONG KONG'",	"SINGAPORE"),
   Points = c(1, 5, 3, 7, 5, 1, 7, 1, 7)
 )
 
