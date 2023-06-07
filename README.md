@@ -2,7 +2,7 @@
 
 ## [Wanda Diamond League in Florence]
 
-### Race Analysis
+### Women's 1500m Race Analysis
 
 ![1500m_women](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/5ca16dff-4772-4049-bb01-8c1ff375b465)
 
