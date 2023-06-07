@@ -8,6 +8,11 @@
 
 ![1500m_women1](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/fd352c23-d0bf-43bd-8a43-21fd80a50a5a)
 
+### Men's 100m Race Analysis
+
+![100m_men_Analysis_RF](https://github.com/manassehoduor/Crunch-Sports-Data/assets/20558188/7f86f62b-53c3-4804-8235-ee4c5a2fa959)
+
+
 ## [Wanda Diamond League in Rabat](https://github.com/manassehoduor/Crunch-Sports-Data/tree/main/Track%20%26%20Field%20Sports/Men/100%20m)
 
 ### Race Analysis
