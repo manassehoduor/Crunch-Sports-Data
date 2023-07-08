@@ -83,7 +83,7 @@ Chart designed before the race
 
 ### Margin of Victory
 
-Collapse the sections below to view the visualization's of **Margin of victory** amongst top winning teams after:
+Collapse the sections below to view the visualizations of **Margin of victory** amongst top winning teams after:
 
 <details><summary>Kabeberi & Christies 7s Editions</summary>
   
