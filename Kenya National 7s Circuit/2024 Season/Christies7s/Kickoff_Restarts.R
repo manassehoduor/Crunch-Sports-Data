@@ -115,7 +115,6 @@ T1 <- team_stats |>
     style = list(
       cell_text(font=google_font(
         name = "Roboto Condensed"
-        #name = "Roboto"
       ), align = "left",v_align = "middle")),
     locations = cells_column_labels(
       columns = c(Team, `Contestable Restarts (%)`, `Non-Contestable Restarts (%)`, `Restart Error Rate %`, `Average Restart Errors per Game`)
